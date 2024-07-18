@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/calendar_react/static/css/main.c1cf5803.css",
+    "main.js": "/calendar_react/static/js/main.f8c96a20.js",
+    "static/js/453.e63cee22.chunk.js": "/calendar_react/static/js/453.e63cee22.chunk.js",
+    "static/media/candy_small.jpg": "/calendar_react/static/media/candy_small.fee35d74fe2697549867.jpg",
+    "index.html": "/calendar_react/index.html",
+    "main.c1cf5803.css.map": "/calendar_react/static/css/main.c1cf5803.css.map",
+    "main.f8c96a20.js.map": "/calendar_react/static/js/main.f8c96a20.js.map",
+    "453.e63cee22.chunk.js.map": "/calendar_react/static/js/453.e63cee22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1cf5803.css",
+    "static/js/main.f8c96a20.js"
+  ]
+}
